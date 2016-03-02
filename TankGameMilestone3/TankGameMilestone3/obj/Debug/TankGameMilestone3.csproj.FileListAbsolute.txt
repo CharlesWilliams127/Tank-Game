@@ -1,0 +1,6 @@
+c:\users\charles\documents\visual studio 2013\Projects\TankGameMilestone3\TankGameMilestone3\bin\Debug\TankGameMilestone3.exe.config
+c:\users\charles\documents\visual studio 2013\Projects\TankGameMilestone3\TankGameMilestone3\bin\Debug\TankGameMilestone3.exe
+c:\users\charles\documents\visual studio 2013\Projects\TankGameMilestone3\TankGameMilestone3\bin\Debug\TankGameMilestone3.pdb
+c:\users\charles\documents\visual studio 2013\Projects\TankGameMilestone3\TankGameMilestone3\obj\Debug\TankGameMilestone3.csprojResolveAssemblyReference.cache
+c:\users\charles\documents\visual studio 2013\Projects\TankGameMilestone3\TankGameMilestone3\obj\Debug\TankGameMilestone3.exe
+c:\users\charles\documents\visual studio 2013\Projects\TankGameMilestone3\TankGameMilestone3\obj\Debug\TankGameMilestone3.pdb
